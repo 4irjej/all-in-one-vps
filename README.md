@@ -23,7 +23,7 @@ Secrets Name | Uses | Notes
 `LINUX_MACHINE_NAME` | For Linux System Computer name | Type any name you want
 `CHROME_HEADLESS_CODE` | For remoting linux desktop using google remote | Copy Codes from [here](https://remotedesktop.google.com/headless) and login with your google account, and then copy the code below `Debian Linux` blank. :warning: Each code can only be used for once, generate another code when u have used that one.
 
-## Deloy and Run
+## Deploy and Run
 <details>
     <summary>MacOS Install and Run</summary>
 <br>
