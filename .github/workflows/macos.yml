@@ -8,7 +8,7 @@ defaults:
 jobs:
   build:
     name: MacOS Build
-    runs-on: macos-latest
+    runs-on: macOS-10.15
     steps:
     - uses: actions/checkout@v2
     - name: Setting Up the MacOS Environment
