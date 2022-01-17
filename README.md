@@ -5,6 +5,8 @@
 
 <br>
 
+Note: This Repo is Outdated And no longer updated also this rdp will stop at 1hr instead of 6hrs For Free RDP Method Click This Link:https://github.com/4irjej/Windows-11-VPS
+
 ## Setting up:
 1. Fork this project
 2. Go to your peoject page, click `Settings` and go to `Secrets`, and then click `New Secret` to add these secrets below:
